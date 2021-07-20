@@ -1,0 +1,5 @@
+rlschool==0.3.1
+paddlepaddle_gpu==2.1.1.post110
+numpy==1.19.2
+paddle==1.0.2
+parl==2.0.2
